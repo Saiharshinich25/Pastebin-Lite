@@ -1,0 +1,8 @@
+spring:
+  data:
+    redis:
+      host: rested-colt-43072.upstash.io
+      port: 6379
+      password: AahAAAIncDIwZDhmNTk3NTdhYzc0OTFiYWRmNmFjY2Y1N2Y3MDcyNHAyNDMwNzI
+      ssl:
+        enabled: true
